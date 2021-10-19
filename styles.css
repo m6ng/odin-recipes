@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(133, 197, 60);
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2em;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-indent: 2em; 
+}
+
+p,ul,ol {
+    background-color: rgb(231, 231, 114);
+    line-height: 2.0;
+    text-indent: 1em;
+    margin: 2em;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+img {
+    margin: 2em;
+    border-radius: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+li {
+    list-style-position: inside;
+}
